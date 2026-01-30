@@ -1,0 +1,7 @@
+{
+  "name": "RetailCycle - Smart Inventory",
+  "description": "Professional inventory cycle counting application for international retail, featuring priority scheduling, intelligent reconciliation, and digital signatures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
