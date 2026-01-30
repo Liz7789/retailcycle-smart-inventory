@@ -510,4 +510,8 @@ export const App: React.FC = () => {
 
       </div>
     );
-  };
+  }
+
+  // Return null for other views (they are rendered as overlays in Dashboard)
+  return null;
+};
